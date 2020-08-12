@@ -1,0 +1,22 @@
+.header{
+    background-color: black;
+    height: 103px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 25px;
+    padding-top: 20px;
+    display: flex;
+}
+.wrap{
+    display: flex;
+}
+p{
+    padding:0 20px;
+}
+
+.wrap{
+    padding-left: 400px ;
+}
+.end{
+    padding-left:400px;
+}

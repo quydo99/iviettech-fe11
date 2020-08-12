@@ -1,0 +1,21 @@
+.slide{
+    background-color: gray;
+    height: 570px;
+    width: 20%;
+    padding-left: 27px;
+    padding-top: 20px;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.col{
+    padding: 20px;
+}
+.type_color{
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.col :hover{
+    background-color: rgb(100, 97, 97);
+}
